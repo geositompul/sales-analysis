@@ -1,3 +1,3 @@
-This file contain the result of analysis and visualization on a company sales data. <br>
-The data consist of a sample monthly sales data for 1 year (Januari 2019 - Decemeber 2019) in distinct (.csv) file and contain product name, price, quantity sold, order date, and purchase address  <br>
+In this project, I use a sample of a company's monthly sales dataset for 1 year (January 2019 - December 2019) in a distinct (.csv) file and contain product name, price, quantity sold, order date, and purchase address.  <br>
+I analyze and visualize the data based on basic business questions and analyze the behavior of the customer of the company.  <br>
 This project is inspired by Keith Galii video (<a href="https://www.youtube.com/watch?v=eMOA1pPVUc4&t=3128s">Link</a>) </p>
